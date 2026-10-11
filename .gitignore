@@ -1,0 +1,11 @@
+# Executable
+sauvetage
+
+# Generated save file
+sauvegarde.dat
+
+# Object files
+*.o
+
+# Debug files
+*.out
