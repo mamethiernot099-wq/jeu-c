@@ -1,5 +1,5 @@
 # Le Sauvetage en Mer
-![Capture du jeu Le Sauvetage en Mer]()
+![Capture du jeu Le Sauvetage en Mer](Capture d'écran 2026-10-11 150114.png)
 ## Description
 
 Le Sauvetage en Mer est un jeu développé en langage C dans lequel le joueur contrôle un radeau afin d'attraper des objets qui tombent.
